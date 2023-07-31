@@ -7,6 +7,7 @@
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Project02-TASTY_FIX_TEAM-JS/"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
